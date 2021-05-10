@@ -2,6 +2,7 @@ package integers
 
 import "fmt"
 
+//Soma dois números inteiros
 func Add(x, y int) int {
 	return x + y
 }
